@@ -1,4 +1,5 @@
-#Fruit Filter Application
+##Fruit Filter Application
+
 This project is a simple React-based application that filters a list of fruits based on user input. It dynamically highlights the matching portion of each fruit name as you type.
 
 **Features**
